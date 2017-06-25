@@ -1,0 +1,31 @@
+{
+  "name": "ibookshelf-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunshinexs/ibookstore-backend.git"
+  },
+  "keywords": [
+    "bookshelf"
+  ],
+  "author": "sunshinexs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunshinexs/ibookstore-backend/issues"
+  },
+  "homepage": "https://github.com/sunshinexs/ibookstore-backend#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "log4js": "^1.1.1",
+    "moment": "^2.18.1",
+    "mongoose": "^4.10.4",
+    "node-mysql": "^0.4.2",
+    "pm2": "^2.5.0",
+    "underscore": "^1.8.3"
+  }
+}
